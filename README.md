@@ -42,7 +42,7 @@ Feel free to use it...
 
 
 ## Downloads ##
-Download the tool here : 
+Download the tool [here](https://github.com/ScoutmanPt/Swiss.Army.Knife/releases/tag/v1.0.0.0)  
 
 ## Screenshots ##
 
