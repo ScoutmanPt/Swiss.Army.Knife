@@ -1,5 +1,5 @@
 ﻿
-#  Scoutmans Swiss Army Knife  ![icon](./resources/icons/ssak.png?raw=true)
+#  Scoutmans Swiss Army Knife  ![icon](./Resources/icons/ssak.png?raw=true)
 by Rodrigo Pinto ([@scoutmanpt](http://twitter.com/scoutmanpt "@scoutmanpt")).
 ## Summary ##
 
@@ -46,8 +46,8 @@ Download the tool [here](https://github.com/ScoutmanPt/Swiss.Army.Knife/releases
 
 ## Screenshots ##
 
-![example](./resources/agif/general01.gif?raw=true)
-![example](./resources/agif/config.jpg?raw=true)
+![example](./Resources/agif/general01.gif?raw=true)
+![example](./Resources/agif/config.jpg?raw=true)
 ## Prerequisites ##
 Below system requirements are the recommended ones, although other system configurations might work too... 
 * Windows 10,11
